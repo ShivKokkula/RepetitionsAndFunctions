@@ -20,7 +20,7 @@ do
 
 done
 
-if [ n>2 ]
+if [ N>2 ]
 then
 	echo $N;
 fi
